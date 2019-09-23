@@ -5,34 +5,34 @@ Peer's repository:
 
 
 
-What is something you learned by reviewing your peer's project?
+What is something you learned by reviewing your peer's project? I learned how to impliment a point system that I will use for my future games!
 
  
 
-What is something you saw in your peer's project that you would like to apply to your own programming projects?
+What is something you saw in your peer's project that you would like to apply to your own programming projects? There is a point system and a move system that tracks the amount of moves a player has performed, I will absolutley be using this.
 
  
 
-What suggestions would you have for your peer to improve his/her code?
+What suggestions would you have for your peer to improve his/her code? Maybe making a creative story to go along with the already nice code.
 
  
 
-What could have been clearer or better commented?
+What could have been clearer or better commented? I think the overall objective of the player could have been clearer but it still served the purpose of the assignment. 
 
  
 
-Was there anything in the code that was confusing to you? If so, what?
+Was there anything in the code that was confusing to you? If so, what? After looking through the code it looked like everything we've been doing except the point system which was a little hard to understand at first.
 
  
 
-Does the repository contain an appropriate LICENSE?
+Does the repository contain an appropriate LICENSE? Yes!
 
  
 
-What is something he/she could add to the README.md to make it more descriptive?
+What is something he/she could add to the README.md to make it more descriptive? I actually think the README was very nice. It clearly outlined what was done and what they wanted to add next time to improve on the game. ALSO, I think the license should have their name rather than their user name<<<
 
  
 
-Pay a compliment to your peer based on the quality of his/her code.
+Pay a compliment to your peer based on the quality of his/her code. Although it is pretty standard for what we've been doing I appreciate that it works and completes the objective, well done! 
 
 
